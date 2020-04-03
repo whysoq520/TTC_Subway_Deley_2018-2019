@@ -18,24 +18,23 @@ Heroku
 City of Toronto Open Data - TTC monthly subway delay data: https://open.toronto.ca/dataset/ttc-subway-delay-data/
 Wikipedia (multiple web pages) - TTC subway station coordinates (e.g. Bloor-Yonge station: https://en.wikipedia.org/wiki/Bloor%E2%80%93Yonge_station)
 TTC Operating Statistics: https://www.ttc.ca/About_the_TTC/Operating_Statistics/2018/index.jsp
+
+
+**Results**
 Dashboard Link:
 https://ttc-subway-delay-dashboard.herokuapp.com/
 
-**Results**
-
-https://ttc-subway-delay-dashboard.herokuapp.com/
+![map.jpg](Images/map.jpg)
 
 
-screenshot1.jpg screenshot2.jpg screenshot3.jpg screenshot4.jpg screenshot5.jpg screenshot6.jpg screenshot7.jpg screenshot8.jpg
-Time_group bin details
+**Authors**
 
-Authors: 
 Nadia Iskandar
 Ivy Fong
 Shaohua Liu
 Jennifer Huynh
 
-Acknowledgments
+**Acknowledgments**
 •	Hat tip to anyone whose code was used
 •	Ahmad G. Sara H. Snedden M.
 
