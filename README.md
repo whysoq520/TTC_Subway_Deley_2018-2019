@@ -33,10 +33,10 @@ Popups (on hover) displaying the name of the subway station, total number of del
 
 Analysis of subway delays by hour, day of the week, and month
 
-![reason1.jpg](Images/reason1.jpg)
+![delaybytime.jpg](Images/delaybytime.jpg)
 
 Analysis of subway delays by reason
-
+![reason1.jpg](Images/reason1.jpg)
 ![reason2.jpg](Images/reason2.jpg)
 
 3.**Predictions**
