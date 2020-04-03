@@ -49,13 +49,14 @@ Average wait time
 
 **Authors**
 
-Nadia Iskandar
-Ivy Fong
-Shaohua Liu
-Jennifer Huynh
+Nadia Iskandar ; 
+Ivy Fong;
+Shaohua Liu;
+Jennifer Huynh;
 
 **Acknowledgments**
 
 •	Hat tip to anyone whose code was used
+
 •	Ahmad G. Sara H. Snedden M.
 
