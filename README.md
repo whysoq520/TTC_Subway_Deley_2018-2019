@@ -40,11 +40,13 @@ Analysis of subway delays by reason
 ![reason2.jpg](Images/reason2.jpg)
 
 3.**Predictions**
+
 Dropdown filters: Subway line, station, direction, month, day of the week, and hour
 Average delay time
 Average wait time
 
 ![prediction.jpg](Images/prediction.jpg)
+
 **Authors**
 
 Nadia Iskandar
@@ -53,6 +55,7 @@ Shaohua Liu
 Jennifer Huynh
 
 **Acknowledgments**
+
 •	Hat tip to anyone whose code was used
 •	Ahmad G. Sara H. Snedden M.
 
