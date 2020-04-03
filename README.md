@@ -21,12 +21,30 @@ TTC Operating Statistics: https://www.ttc.ca/About_the_TTC/Operating_Statistics/
 
 
 **Results**
-Dashboard Link:
-https://ttc-subway-delay-dashboard.herokuapp.com/
+
+Dashboard Link:https://ttc-subway-delay-dashboard.herokuapp.com/
+
+1. **Leaflet Map(Map of Toronto and TTC subway stations)**
+Popups (on hover) displaying the name of the subway station, total number of delays in 2019, average delay time in 2019, total number of delays in 2018, and average delay time in 2018
 
 ![map.jpg](Images/map.jpg)
 
+2. **Tableau Dashboard**
 
+Analysis of subway delays by hour, day of the week, and month
+
+![reason1.jpg](Images/reason1.jpg)
+
+Analysis of subway delays by reason
+
+![reason2.jpg](Images/reason2.jpg)
+
+3.**Predictions**
+Dropdown filters: Subway line, station, direction, month, day of the week, and hour
+Average delay time
+Average wait time
+
+![prediction.jpg](Images/prediction.jpg)
 **Authors**
 
 Nadia Iskandar
