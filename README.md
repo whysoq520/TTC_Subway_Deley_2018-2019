@@ -11,17 +11,17 @@
 
 In this project, we used the TTC subway delay dataset of 2018 and 2019. We created an interactive dashboard to display Map of Toronto and TTC subway stations, Key facts about the TTC and Analysis of subway delays by hour, day of the week, month and the delays by reason
 
-**Tools and Installation**
+##**Tools and Installation**
 
 The code was developed using 
--the Anaconda distribution of Python, versions 3. 7. Python libraries used are numpy, pandas, sklearn, matplotlib, Flask, SQLAlchemy
--Data upload to ASW and connect with PostgreSQL version 11.
--HTML/CSS
--JavaScript - Leaflet, D3
--Tableau desktop 2020.1 
--Heroku
+-1.the Anaconda distribution of Python, versions 3. 7. Python libraries used are numpy, pandas, sklearn, matplotlib, Flask, SQLAlchemy
+-2. Data upload to ASW and connect with PostgreSQL version 11.
+-3. HTML/CSS
+-4.JavaScript - Leaflet, D3
+-5.Tableau desktop 2020.1 
+-6.Heroku
 
-**Data Sources**
+##**Data Sources**
 
 City of Toronto Open Data - TTC monthly subway delay data: https://open.toronto.ca/dataset/ttc-subway-delay-data/
 Wikipedia (multiple web pages) - TTC subway station coordinates (e.g. Bloor-Yonge station: https://en.wikipedia.org/wiki/Bloor%E2%80%93Yonge_station)
