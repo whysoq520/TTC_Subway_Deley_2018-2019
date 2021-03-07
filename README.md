@@ -13,7 +13,7 @@ In this project, we used the TTC subway delay dataset of 2018 and 2019. We creat
 
 ## **Tools:**
 We will use the following:
-1. Python - Pandas, SQLAlchemy, Flask
+1. Python - Pandas, SQLAlchemy, Flask,sklearn, matplotlib, Machine Learning
 2. AWS PostgreSQL
 3. HTML/CSS
 4. JavaScript - Leaflet, D3
@@ -25,22 +25,6 @@ We will use the following:
 2.	Wikipedia (multiple web pages) - TTC subway station coordinates (e.g. Bloor-Yonge station: https://en.wikipedia.org/wiki/Bloor%E2%80%93Yonge_station)
 3. 	TTC Operating Statistics: https://www.ttc.ca/About_the_TTC/Operating_Statistics/2018/index.jsp
 
-## **Screenshot:**
-##**Tools and Installation**
-
-The code was developed using 
--1.the Anaconda distribution of Python, versions 3. 7. Python libraries used are numpy, pandas, sklearn, matplotlib, Flask, SQLAlchemy
--2. Data upload to ASW and connect with PostgreSQL version 11.
--3. HTML/CSS
--4.JavaScript - Leaflet, D3
--5.Tableau desktop 2020.1 
--6.Heroku
-
-##**Data Sources**
-
-City of Toronto Open Data - TTC monthly subway delay data: https://open.toronto.ca/dataset/ttc-subway-delay-data/
-Wikipedia (multiple web pages) - TTC subway station coordinates (e.g. Bloor-Yonge station: https://en.wikipedia.org/wiki/Bloor%E2%80%93Yonge_station)
-TTC Operating Statistics: https://www.ttc.ca/About_the_TTC/Operating_Statistics/2018/index.jsp
 
 
 **Results**
