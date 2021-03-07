@@ -13,12 +13,13 @@ In this project, we used the TTC subway delay dataset of 2018 and 2019. We creat
 
 **Tools and Installation**
 
-The code was developed using the Anaconda distribution of Python, versions 3. 7. Python libraries used are numpy, pandas, sklearn, matplotlib, Flask, SQLAlchemy.Installation
-Data upload to ASW and connect with PostgreSQL version 11.
-HTML/CSS
-JavaScript - Leaflet, D3
-Tableau desktop 2020.1 
-Heroku
+The code was developed using 
+-the Anaconda distribution of Python, versions 3. 7. Python libraries used are numpy, pandas, sklearn, matplotlib, Flask, SQLAlchemy
+-Data upload to ASW and connect with PostgreSQL version 11.
+-HTML/CSS
+-JavaScript - Leaflet, D3
+-Tableau desktop 2020.1 
+-Heroku
 
 **Data Sources**
 
