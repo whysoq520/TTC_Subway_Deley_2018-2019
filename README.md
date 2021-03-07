@@ -1,16 +1,17 @@
-**Toronto Transit Commission (TTC) Subway Delays**
+# Toronto Transit Commission (TTC) Subway Delays
 
-*Team Members:*
-Nadia Iskandar
-Ivy Fong
-Shaohua Liu
-Jennifer Huynh
+## **Team Members:**
+- Nadia Iskandar
+- Ivy Fong
+- Shaohua Liu
+- Jennifer Huynh
+
 
 **Toronto Transit Commission (TTC) Subway Delays**
 
 In this project, we used the TTC subway delay dataset of 2018 and 2019. We created an interactive dashboard to display Map of Toronto and TTC subway stations, Key facts about the TTC and Analysis of subway delays by hour, day of the week, month and the delays by reason
 
-**Installation**
+**Tools and Installation**
 
 The code was developed using the Anaconda distribution of Python, versions 3. 7. Python libraries used are numpy, pandas, sklearn, matplotlib, Flask, SQLAlchemy.Installation
 Data upload to ASW and connect with PostgreSQL version 11.
